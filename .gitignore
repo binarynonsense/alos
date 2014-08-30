@@ -1,0 +1,8 @@
+*.exe
+oskernel
+.directory
+*.o
+*.ali
+
+
+
