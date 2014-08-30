@@ -16,7 +16,7 @@
 --  and Brandon F http://www.osdever.net/bkerndev/index.php                --
 --  And the really helpful OSDev.org wiki and forums                       --
 -----------------------------------------------------------------------------
---                      last update: 03 May 2009                           --
+--                      last update: 30 Aug 2014                           --
 ---------------------------------------------------------------------------*/
 
 //ref http://www.gamedev.net/reference/articles/article442.asp
@@ -62,6 +62,10 @@ console_write("\n\ntesting pc speaker");
 init_timer(1000);
 sound(100);
 sleep(1);
+stop_sound();
+sound(50);
+sleep(1);
+stop_sound();
 console_write("\nend\n\n");
 }
 

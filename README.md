@@ -7,6 +7,6 @@ This project is based on the kernel tutorials by JamesM (http://www.jamesmolloy.
 
 Last things I added were a simple command line interface and a very basic VGA driver (not finished).
 
-Once built, it includes a makefile, you can use QEMU to test it: qemu-system-i386 -kernel oskernel
+Once built, it includes a makefile, you can use QEMU to test it: qemu-system-i386 -kernel oskernel -soundhw pcspk
 
 Video: https://www.youtube.com/watch?v=4JsgIdO43SU
