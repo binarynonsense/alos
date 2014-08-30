@@ -1,5 +1,5 @@
-ALOS Operative System
-=====================
+ALOS - Álvaro's Operative System
+================================
 
 A simple operative system I created some years ago in order to learn more about computers.
 

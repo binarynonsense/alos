@@ -1,12 +1,11 @@
 /*---------------------------------------------------------------------------
---                           ALOS Operative System                         -- 
+--                     ALOS - Álvaro's Operative System                    -- 
 -----------------------------------------------------------------------------
 --                                                                         --
---  A simple operative system created in order to learn more               --
+--  A simple operative system I created in order to learn more             --
 --  about computers                                                        --
 --                                                                         --
 --  author:   Álvaro García                                                --
---  email:    alvaro@binarynonsense.com                                    --
 --  website:  www.binarynonsense.com                                       --
 --                                                                         --
 --  file: main.c                                                           --
